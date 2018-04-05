@@ -1,2 +1,2 @@
 # HelloWorld
-<h1>Java project</h1>
+<h3>Java project</h3>
